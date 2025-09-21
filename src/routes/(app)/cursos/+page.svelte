@@ -10,7 +10,8 @@
         <CursoCard {curso} />
       </li>
     {/each}
-    <li><a href="/cursos/9999">Un curso que no existe</a></li>
+
+    <li><a href="/cursos/9999">Un curso que no existe1</a></li>
   </ul>
 </section>
 
@@ -39,7 +40,7 @@
 
   a {
     text-decoration: none;
-    color: #1273D4;
+    color: #1273d4;
   }
 
   a:hover {
